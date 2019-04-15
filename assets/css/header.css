@@ -1,0 +1,39 @@
+div {
+  word-wrap: break-word;
+}
+.form-group, .table{
+  margin-bottom: 0px;
+}
+.searchresult{
+  max-width: 360px;
+  max-height: 300px;
+  width: 100%;
+  padding: 0px;
+}
+.searcheduser{
+  line-height: 0px;
+  word-wrap: break-word;
+  padding: 10px;
+}
+.searcheduser:hover{
+  background-color:#e0e0e0;
+}
+.empty-70-height{
+  min-height: 70px;
+}
+.padding-5-circle{
+   background-color: #fff;
+   padding: 5px;
+   border-radius: 50%;
+}
+a:hover{
+  text-decoration: none;
+}
+.cover-img{
+  height: 100%;
+  width: 100%;"
+}
+.commentframe{
+  border:none;
+  display: none;
+}
